@@ -1,4 +1,4 @@
-# BuyMe E-Commerce App
+# Light's On
 
 Its a Lights on-off feature on android with disco light feature or pattern follower for fun. This app switches on and off the light in various pattern plus also has option to disable or enable the light when device is locked or kept in background
 
