@@ -1,0 +1,35 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "Appsforu.Lights.On"
+        minSdkVersion 16
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:23.1.1'
+    compile 'com.github.rey5137:material:1.2.1'
+    compile 'com.google.android.gms:play-services-ads:8.4.0'
+    compile files('libs/appodeal-1.13.10.jar')
+    compile files('libs/chartboost-6.0.2.jar')
+    compile files('libs/inmobi-5.0.1.jar')
+    compile files('libs/my-target-4.1.2.jar')
+    compile files('libs/unity-ads-1.4.7.jar')
+    compile files('libs/yandex-metrica-android-2.00.jar')
+    compile files('libs/applovin-6.1.4.jar')
+}

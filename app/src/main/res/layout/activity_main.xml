@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <include layout="@layout/app_bar"/>
+
+    <Switch
+        android:id="@+id/torchswitch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/torch"
+        android:checked="false"
+        android:thumb="@android:color/transparent"
+        android:track="@android:color/transparent"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="88dp" />
+
+    <CheckBox
+        android:id="@+id/keepOn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="keep on while screen is locked"
+        android:textSize="18sp"
+        android:textColor="@color/grey"
+        android:textIsSelectable="false"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="34dp" />
+
+    <com.appodeal.ads.BannerView
+        android:layout_centerVertical="true"
+        android:id="@+id/appodealBannerView"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:visibility="gone"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/MillionGenie/Documents/GitHub/Lights-On/app/libs/yandex-metrica-android-2.00.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2ea07a524d2c4880f2466dec3b924391c5aee7b6">
+        <dex dex="/Users/MillionGenie/Documents/GitHub/Lights-On/app/build/intermediates/pre-dexed/debug/yandex-metrica-android-2.00_611bca78bd6224ad740030ea65611afff878b06c.jar" />
+    </item>
+    <item
+        jar="/Users/MillionGenie/Documents/GitHub/Lights-On/app/libs/applovin-6.1.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c5b3023130e16f4445889507f849e7696115e21">
+        <dex dex="/Users/MillionGenie/Documents/GitHub/Lights-On/app/build/intermediates/pre-dexed/debug/applovin-6.1.4_c226f23a270a6cbca050d70cda7f998583a99d65.jar" />
+    </item>
+    <item
+        jar="/Users/MillionGenie/Documents/GitHub/Lights-On/app/libs/inmobi-5.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="495af4e2b956e964250ba886783d495f2839809f">
+        <dex dex="/Users/MillionGenie/Documents/GitHub/Lights-On/app/build/intermediates/pre-dexed/debug/inmobi-5.0.1_b59065f129b559337304848ac67d4c6d20b078f5.jar" />
+    </item>
+    <item
+        jar="/Users/MillionGenie/Documents/GitHub/Lights-On/app/build/intermediates/exploded-aar/com.github.rey5137/material/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0040be6592cbfbb19a2c1e90a759278795ed2280">
+        <dex dex="/Users/MillionGenie/Documents/GitHub/Lights-On/app/build/intermediates/pre-dexed/debug/com.github.rey5137-material-1.2.1_b190dfd74cc796ff1ab625e5af170f83d50c4192.jar" />
+    </item>
+    <item
+        jar="/Users/MillionGenie/Documents/GitHub/Lights-On/app/libs/chartboost-6.0.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a7b40e73dde706f1dfa0f2f3d343da4c85b00d0f">
+        <dex dex="/Users/MillionGenie/Documents/GitHub/Lights-On/app/build/intermediates/pre-dexed/debug/chartboost-6.0.2_41a5e3d8b7dab2219fc58f63e83bd39eee1e6809.jar" />
+    </item>
+    <item
+        jar="/Users/MillionGenie/Documents/GitHub/Lights-On/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/MillionGenie/Documents/GitHub/Lights-On/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_f6764b77be933eef5b3bd6fcb3749234fa480d1a.jar" />
+    </item>
+    <item
+        jar="/Users/MillionGenie/Documents/GitHub/Lights-On/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="/Users/MillionGenie/Documents/GitHub/Lights-On/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-22.2.0_5a39cc67550a40683ae347824315776575a2a68b.jar" />
+    </item>
+    <item
+        jar="/Users/MillionGenie/Documents/GitHub/Lights-On/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/MillionGenie/Documents/GitHub/Lights-On/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_798b3b8c224670f84066edc006d1653bc525ddc3.jar" />
+    </item>
+    <item
+        jar="/Users/MillionGenie/Documents/GitHub/Lights-On/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/MillionGenie/Documents/GitHub/Lights-On/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-8.4.0_f0deadeb46aed04f84546d13a15ca977d6b52047.jar" />
+    </item>
+    <item
+        jar="/Users/MillionGenie/Documents/GitHub/Lights-On/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/MillionGenie/Documents/GitHub/Lights-On/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_bdfb0a07f2323a883d1b8dc7c2f0bc12ec195eed.jar" />
+    </item>
+    <item
+        jar="/Users/MillionGenie/Documents/GitHub/Lights-On/app/libs/appodeal-1.13.10.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ca3827ee4586cd2c1731fa7673cb554410394932">
+        <dex dex="/Users/MillionGenie/Documents/GitHub/Lights-On/app/build/intermediates/pre-dexed/debug/appodeal-1.13.10_589f2fd2fec25487c9795b97d0b27f2f677e0f2f.jar" />
+    </item>
+    <item
+        jar="/Users/MillionGenie/Documents/GitHub/Lights-On/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/MillionGenie/Documents/GitHub/Lights-On/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_52c2c826f009d8fb0d6dba8da3cdcc9d71fb16d6.jar" />
+    </item>
+    <item
+        jar="/Users/MillionGenie/Documents/GitHub/Lights-On/app/libs/my-target-4.1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="237bc83ffdb8c6f1453129b545db8e08ea25285a">
+        <dex dex="/Users/MillionGenie/Documents/GitHub/Lights-On/app/build/intermediates/pre-dexed/debug/my-target-4.1.2_16d2242cac37c92f53a23ffff59054a7fcfbebed.jar" />
+    </item>
+    <item
+        jar="/Users/MillionGenie/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/MillionGenie/Documents/GitHub/Lights-On/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_2d43eb2b0f7811bc44c04af71461d645e6e585a5.jar" />
+    </item>
+    <item
+        jar="/Users/MillionGenie/Documents/GitHub/Lights-On/app/libs/unity-ads-1.4.7.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="80d4551e9b744889130efc770c81cdc8e5ddd9b5">
+        <dex dex="/Users/MillionGenie/Documents/GitHub/Lights-On/app/build/intermediates/pre-dexed/debug/unity-ads-1.4.7_a22253b4ed0618326b2d0911263d2849793f1f7b.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+<resources>
+    <dimen name="tv_body">16sp</dimen>
+    <dimen name="tv_body_small">14sp</dimen>
+    <dimen name="layout_padding">16dp</dimen>
+    <dimen name="buton_padding">20dp</dimen>
+    <dimen name="dialog_tv_padding">6dip</dimen>
+    <dimen name="tv_body_large">18sp</dimen>
+    <dimen name="tv_body_title">18sp</dimen>
+    <dimen name="tv_body_subtitle">14sp</dimen>
+    <dimen name="tv_body_heading">20sp</dimen>
+    <dimen name="tv_body_content">16sp</dimen>
+    <dimen name="tv_title">22sp</dimen>
+    <dimen name="db_button_padding">16dip</dimen>
+    <dimen name="dialog_margin">16dip</dimen>
+    <dimen name="db_content_margin">6dip</dimen>
+    <dimen name="db_checkbox_sidemargin">12dip</dimen>
+    <dimen name="radio_tv_margin">5dip</dimen>
+</resources>
