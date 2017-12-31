@@ -1,9 +1,6 @@
 # BuyMe E-Commerce App
 
-Buy Me, A shopping Application that brings sellers and buyers closer based on locations. 
-Easy to use interface helps seller to upload products in few clicks. 
-Liking a product by buyers encourages latest fashion and lifestyle around you.
-Bundled with features like sharing products filtering search options tracking order status and beautiful UI gives you the best of it.
+Its a Lights on-off feature on android with disco light feature or pattern follower for fun. This app switches on and off the light in various pattern plus also has option to disable or enable the light when device is locked or kept in background
 
 ## Technical Details:
 This app was built with the support of android latest api which have access to the device light on / off feature. 
